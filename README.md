@@ -21,6 +21,7 @@ Title | Author | Key
 *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* | Virginia Eubanks| :small_orange_diamond: 
 
 ## Articles
+* Machine Bias by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica ([Link](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing))
 * How our data encodes systematic racism by Deborah Raji ([Link](https://www.technologyreview.com/2020/12/10/1013617/racism-data-science-artificial-intelligence-ai-opinion/))
 * Technology Can't Fix Algorithmic Injustice by Annette Zimmerman, Elena Di Rosa, Hochan Kim ([Link](http://bostonreview.net/science-nature-politics/annette-zimmermann-elena-di-rosa-hochan-kim-technology-cant-fix-algorithmic))
 
