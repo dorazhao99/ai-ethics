@@ -31,4 +31,4 @@ Title | Author | Key
 * ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) ([Link](https://facctconference.org/))
 * *Fairness and Machine Learning* by Solon Barocas, Mortiz Hardt, and Arvind Narayanan ([Link](https://fairmlbook.org/)) ** To note, this is not included in the books section given that it is a textbook and may require some more domain-specific knowledge. ** 
 * Dialogues on AI and Ethics at Princeton University ([Link](https://aiethics.princeton.edu/))
-* "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification" ([Link](http://proceedings.mlr.press/v81/buolamwini18a.html)) by Joy Buolamwini and Timnit Gebru ** To note, this is an academic article but wanted to highlight it nonetheless. **
+* "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification" ([Link](http://proceedings.mlr.press/v81/buolamwini18a.html)) by Joy Buolamwini and Timnit Gebru ** To note, this is an academic article but wanted to highlight it. May require some domain-specific knowledge.**
