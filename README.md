@@ -1,5 +1,7 @@
 # Reading List of AI Ethics Books + Articles + Others
-A compilation of things I have read and want to read relating to AI ethics, algorithmic bias, and generally about fairness / bias in computing. 
+**Work in Progress; Last Updated December 11, 2020**
+
+A compilation of things I have read / want to read relating to AI ethics, algorithmic bias, and generally about fairness / bias in computing. 
 
 Mainly focused on books / articles that are accessible to those even without domain-specific knowledge. However, there are links to some papers / conferences at the bottom as well. 
 
