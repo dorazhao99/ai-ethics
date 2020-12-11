@@ -23,3 +23,4 @@ Title | Author | Key
 * Resistance in AI Workshop @ NeurIPS 2020 ([Link](https://sites.google.com/view/resistance-ai-neurips-20/accepted-papers-and-media))
 * FATE in CV Tutorial @ CVPR 2020 ([Link](https://sites.google.com/view/fatecv-tutorial/home?authuser=0))
 * ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) ([Link](https://facctconference.org/))
+* *Fairness and Machine Learning* by Solon Barocas, Mortiz Hardt, and Arvind Narayanan ([Link](https://fairmlbook.org/)) ** To note, this is not included in the books section given that it is a textbook and may require some more domain-specific knowledge. ** 
