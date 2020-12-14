@@ -1,5 +1,5 @@
 # Reading List of AI Ethics Books + Articles + Others
-**Work in Progress; Last Updated December 11, 2020**
+**Work in Progress; Last Updated December 13, 2020**
 
 A compilation of things I have read / want to read relating to AI ethics, algorithmic bias, and generally about fairness / bias in computing. 
 
@@ -19,12 +19,14 @@ Title | Author | Key
 *Race After Technology: Abolitionist Tools for the New Jim Code* | Ruha Benjamin | :white_check_mark: 
 *Weapons of Math Destruction* | Cathy O'Neil | :white_check_mark: 
 *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* | Virginia Eubanks| :small_orange_diamond: 
-
+*Data Feminism* | Catherine D'Ignazio and Lauren F. Klein | :small_orange_diamond: 
+*Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter* | Charlton D. McIlwain|:small_orange_diamond: 
+*Artificial Unintelligence: How Computers Misunderstand the World* | Meredith Broussard | :small_orange_diamond: 
 ## Articles
 * Machine Bias by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica ([Link](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing))
 * How our data encodes systematic racism by Deborah Raji ([Link](https://www.technologyreview.com/2020/12/10/1013617/racism-data-science-artificial-intelligence-ai-opinion/))
 * Technology Can't Fix Algorithmic Injustice by Annette Zimmerman, Elena Di Rosa, Hochan Kim ([Link](http://bostonreview.net/science-nature-politics/annette-zimmermann-elena-di-rosa-hochan-kim-technology-cant-fix-algorithmic))
-
+* AI Now 2019 Report ([Link](https://ainowinstitute.org/AI_Now_2019_Report.pdf))
 
 ## Misc
 * Resistance in AI Workshop @ NeurIPS 2020 ([Link](https://sites.google.com/view/resistance-ai-neurips-20/accepted-papers-and-media))
