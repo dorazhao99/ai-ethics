@@ -1,5 +1,5 @@
 # Reading List of AI Ethics Books + Articles + Others
-**Work in Progress; Last Updated December 13, 2020**
+**Work in Progress; Last Updated January 29, 2020**
 
 A compilation of things I have read / want to read relating to AI ethics, algorithmic bias, and generally about fairness / bias in computing. 
 
@@ -29,6 +29,7 @@ Title | Author | Key
 * AI Now 2019 Report ([Link](https://ainowinstitute.org/AI_Now_2019_Report.pdf))
 
 ## Misc
+* Coded Bias ([Link](https://www.codedbias.com/))
 * Resistance in AI Workshop @ NeurIPS 2020 ([Link](https://sites.google.com/view/resistance-ai-neurips-20/accepted-papers-and-media))
 * FATE in CV Tutorial @ CVPR 2020 ([Link](https://sites.google.com/view/fatecv-tutorial/home?authuser=0))
 * ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) ([Link](https://facctconference.org/))
